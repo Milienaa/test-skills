@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Unique travel spots finder — curated hidden gems for your next trip",
+  "author": {
+    "name": "Milienaa"
+  },
+  "homepage": "https://github.com/Milienaa/test-skills",
+  "repository": "https://github.com/Milienaa/test-skills",
+  "license": "MIT",
+  "skills": "./skills/"
+}

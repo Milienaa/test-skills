@@ -1,0 +1,13 @@
+{
+  "name": "test-marketplace",
+  "owner": {
+    "name": "Milienaa"
+  },
+  "plugins": [
+    {
+      "name": "test",
+      "source": "./",
+      "description": "Unique travel spots finder — curated hidden gems for your next trip"
+    }
+  ]
+}
