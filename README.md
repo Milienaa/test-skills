@@ -1,2 +1,5 @@
 # test-skills
-xTiles plugin test - Claude Code skills
+
+Test Claude Code plugin — Unique travel spots finder.
+
+## Install
